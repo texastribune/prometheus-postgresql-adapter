@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/go-kit/kit v0.9.0
-	github.com/gogo/protobuf v1.2.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/snappy v0.0.1
 	github.com/grpc-ecosystem/grpc-gateway v1.9.5 // indirect
 	github.com/jamiealquiza/envy v1.1.0
